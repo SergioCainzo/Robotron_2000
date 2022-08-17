@@ -1,2 +1,1 @@
-# Robotron_2000
-Material de Estudo - JS
+# robotron-2000
